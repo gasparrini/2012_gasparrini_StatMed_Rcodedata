@@ -76,6 +76,6 @@ knots <- rowMeans(sapply(datalist,function(x)
   quantile(x$tmean05,knotperc/100,na.rm=T)))
 
 # SAVE
-save.image("data.RData")
+#save.image("data.RData")
 	
 #
