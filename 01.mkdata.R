@@ -5,13 +5,12 @@
 #     multi-parameter associations"
 #   Gasparrini, Armstrong and Kenward
 #   Statistics in Medicine 2012
-#   http://www.ag-myresearch.com/statmed2012.html
+#   http://www.ag-myresearch.com/2012_gasparrini_statmed.html
 #
-# Update: 26 May 2016
-# For any problem with this code, please contact antonio.gasparrini@lshtm.ac.uk
-# Please refer to the original code for any copyright issue
-#
-#  See www.ag-myresearch.com for future updates
+# Update: 15 January 2017
+# * an updated version of this code, compatible with future versions of the
+#   software, is available at:
+#   https://github.com/gasparrini/2012_gasparrini_StatMed_Rcodedata
 ################################################################################
 
 ################################################################################
