@@ -7,7 +7,7 @@
 #   Statistics in Medicine 2012
 #   http://www.ag-myresearch.com/2012_gasparrini_statmed.html
 #
-# Update: 15 January 2017
+# Update: 05 December 2017
 # * an updated version of this code, compatible with future versions of the
 #   software, is available at:
 #   https://github.com/gasparrini/2012_gasparrini_StatMed_Rcodedata
