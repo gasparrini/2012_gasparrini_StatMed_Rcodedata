@@ -2,7 +2,7 @@
 
 ------------------------------------------------------------------------
 
-The development and application of multivariate meta-analysis for pooling estimates of non-linear associations from multiple studies. The code illustrates an example in the specific setting of time series analysis of temperature-health relationships, but the methodology is generally applicable in a broader contexts. The example illustrates the analysis in the article:
+The development and application of multivariate meta-analysis for pooling estimates of non-linear associations from multiple studies. The code illustrates an example in the specific setting of time series analysis of temperature-health relationships, but the methodology is generally applicable in a broader context. The example illustrates the analysis in the article:
 
 Gasparrini A, Armstrong B, Kenward MG. Multivariate meta-analysis for non-linear and other multi-parameter associations. *Statistics in Medicine*. 2012;**31**(29):3821-39. [[freely available here](http://www.ag-myresearch.com/2012_gasparrini_statmed.html)]
 
